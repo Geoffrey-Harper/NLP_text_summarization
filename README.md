@@ -6,3 +6,5 @@ Project implments system presented in the research paper EdgeSumm: Graph-based f
 As well as provides an extension to the system using LSH (https://mrhasankthse.github.io/riz/2020/03/19/Minhash-and-LSH.html). The system, given a document title, will return all the similar documents in the data-base and provide document summaries of the returned documents.
 
 This system is written in python3 with the nltk-library
+
+note you must download the tifu dataset https://www.tensorflow.org/datasets/catalog/reddit_tifu
